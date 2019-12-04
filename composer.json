@@ -1,0 +1,23 @@
+{
+    "name": "paulthewalton/acf-site-settings",
+    "version": "1.0.0",
+    "description": "Get and set WordPress site settings (options & theme_mods) with Advanced Custom Fields",
+    "type": "wordpress-plugin",
+    "keywords": [
+        "wordpress",
+        "static analysis",
+        "acf",
+        "advanced custom fields"
+    ],
+    "authors": [
+        {
+            "name": "Paul Walton",
+            "email": "paul@denmandigital.com"
+        }
+    ],
+    "license": "GPL-2.0+",
+    "require-dev": {
+        "giacocorsiglia/wordpress-stubs": "*",
+        "paulthewalton/acf-stubs": "*"
+    }
+}
