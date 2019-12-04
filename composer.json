@@ -15,7 +15,7 @@
             "email": "paul@denmandigital.com"
         }
     ],
-    "license": "GPL-2.0+",
+    "license": "GPL-3.0+",
     "require-dev": {
         "giacocorsiglia/wordpress-stubs": "*",
         "paulthewalton/acf-stubs": "*"
